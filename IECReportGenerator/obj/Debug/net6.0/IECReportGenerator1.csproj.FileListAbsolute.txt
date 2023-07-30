@@ -1,0 +1,17 @@
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.csproj.AssemblyReference.cache
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.AssemblyInfoInputs.cache
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.AssemblyInfo.cs
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.csproj.CoreCompileInputs.cache
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\bin\Debug\net6.0\IECReportGenerator1.exe
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\bin\Debug\net6.0\IECReportGenerator1.deps.json
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\bin\Debug\net6.0\IECReportGenerator1.runtimeconfig.json
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\bin\Debug\net6.0\IECReportGenerator1.dll
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\bin\Debug\net6.0\IECReportGenerator1.pdb
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.csproj.CopyComplete
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.dll
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\refint\IECReportGenerator1.dll
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.pdb
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.genruntimeconfig.cache
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\ref\IECReportGenerator1.dll

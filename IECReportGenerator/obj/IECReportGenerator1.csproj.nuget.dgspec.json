@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IECReportGenerator\\IECReportGenerator.csproj": {}
+    "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IECReportGenerator\\IECReportGenerator1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IECReportGenerator\\IECReportGenerator.csproj": {
+    "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IECReportGenerator\\IECReportGenerator1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IECReportGenerator\\IECReportGenerator.csproj",
-        "projectName": "IECReportGenerator",
-        "projectPath": "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IECReportGenerator\\IECReportGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IECReportGenerator\\IECReportGenerator1.csproj",
+        "projectName": "IECReportGenerator1",
+        "projectPath": "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IECReportGenerator\\IECReportGenerator1.csproj",
         "packagesPath": "C:\\Users\\patry\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IECReportGenerator\\obj\\",
         "projectStyle": "PackageReference",

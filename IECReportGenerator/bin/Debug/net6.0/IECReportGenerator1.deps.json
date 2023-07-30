@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "IECReportGenerator/1.0.0": {
+      "IECReportGenerator1/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "IECReportGenerator.dll": {}
+          "IECReportGenerator1.dll": {}
         }
       },
       "Newtonsoft.Json/13.0.3": {
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "IECReportGenerator/1.0.0": {
+    "IECReportGenerator1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

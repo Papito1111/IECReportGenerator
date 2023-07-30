@@ -13,3 +13,5 @@ C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6
 C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator.pdb
 C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator.genruntimeconfig.cache
 C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\ref\IECReportGenerator.dll
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator.csproj.CopyComplete
