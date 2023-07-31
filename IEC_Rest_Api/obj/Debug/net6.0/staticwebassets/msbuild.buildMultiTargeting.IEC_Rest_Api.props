@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IEC_Rest_Api.props" />
+</Project>

@@ -15,3 +15,4 @@ C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6
 C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.pdb
 C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\IECReportGenerator1.genruntimeconfig.cache
 C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\obj\Debug\net6.0\ref\IECReportGenerator1.dll
+C:\Users\patry\Source\Repos\IECReportGenerator\IECReportGenerator\bin\Debug\net6.0\data.json

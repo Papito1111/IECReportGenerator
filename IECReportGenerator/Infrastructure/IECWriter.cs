@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 namespace IECReportGenerator.Infrastructure
 {
-    internal class IECWriter
+    public class IECWriter
     {
         public void SaveIECModels(string outputFile, IEnumerable<IECModel> models)
         {

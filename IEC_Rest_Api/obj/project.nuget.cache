@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gbXJnfjSpmh0GchJ8NHRiJcDF6LCfzxY5t7kPQPotQWGCK06Scw/u3piSxH4hj5t7G4aXxXva4PyQ6hztAv+Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patry\\Source\\Repos\\IECReportGenerator\\IEC_Rest_Api\\IEC_Rest_Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\patry\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\patry\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\patry\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\patry\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\patry\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

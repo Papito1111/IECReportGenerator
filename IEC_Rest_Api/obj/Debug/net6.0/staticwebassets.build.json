@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lgdiF/imB7f4ErxcMNXk+7LffVwpLb8i2i1UY39MNdQ=",
+  "Source": "IEC_Rest_Api",
+  "BasePath": "_content/IEC_Rest_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
