@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 namespace IECReportGenerator.Models
 {
-    internal class IECModel
+    public class IECModel
     {
         [JsonProperty("class")]
         public string Class { get; set; }

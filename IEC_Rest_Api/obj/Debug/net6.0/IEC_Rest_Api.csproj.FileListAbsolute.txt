@@ -30,3 +30,10 @@ C:\Users\patry\Source\Repos\IECReportGenerator\IEC_Rest_Api\obj\Debug\net6.0\ref
 C:\Users\patry\Source\Repos\IECReportGenerator\IEC_Rest_Api\obj\Debug\net6.0\IEC_Rest_Api.pdb
 C:\Users\patry\Source\Repos\IECReportGenerator\IEC_Rest_Api\obj\Debug\net6.0\IEC_Rest_Api.genruntimeconfig.cache
 C:\Users\patry\Source\Repos\IECReportGenerator\IEC_Rest_Api\obj\Debug\net6.0\ref\IEC_Rest_Api.dll
+C:\Users\patry\source\repos\IECReportGenerator\IEC_Rest_Api\bin\Debug\net6.0\IECReportGenerator1.deps.json
+C:\Users\patry\source\repos\IECReportGenerator\IEC_Rest_Api\bin\Debug\net6.0\IECReportGenerator1.runtimeconfig.json
+C:\Users\patry\source\repos\IECReportGenerator\IEC_Rest_Api\bin\Debug\net6.0\IECReportGenerator1.exe
+C:\Users\patry\source\repos\IECReportGenerator\IEC_Rest_Api\bin\Debug\net6.0\data.json
+C:\Users\patry\source\repos\IECReportGenerator\IEC_Rest_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\patry\source\repos\IECReportGenerator\IEC_Rest_Api\bin\Debug\net6.0\IECReportGenerator1.dll
+C:\Users\patry\source\repos\IECReportGenerator\IEC_Rest_Api\bin\Debug\net6.0\IECReportGenerator1.pdb
