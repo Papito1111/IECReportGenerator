@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 namespace IECReportGenerator
 {
-    internal class IECReportGenerator1
+    public class IECReportGenerator1
     {
         WindReader _reader;
         IECWriter _writer;
@@ -42,6 +42,29 @@ namespace IECReportGenerator
             }
             _writer.SaveIECModels(outputFile, iecModels);
         }
+        public IEnumerable<IECModel> GeneratorReport(string inputFile)
+        {
+            var windModels = _reader.ReadWindModels(inputFile);
 
+            var iecModels = new List<IECModel>();
+
+            foreach (var windModel in windModels)
+            {
+                var decimalHeight = decimal.Parse(windModel.Height.ToString());
+
+                var iecModel = new IECModel()
+                {
+                    Class = windModel.WindClass,
+                    Height = decimal.Round(decimalHeight, 1),
+                    Power = windModel.Power + "MW",
+                    RotorDiameter = windModel.BladeLenght * 2
+                };
+
+                iecModels.Add(iecModel);
+            }
+            return iecModels;
+
+        }
     }
+
 }

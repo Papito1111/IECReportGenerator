@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\IECReportGenerator\\Models",
+    "\\IEC_Rest_Api"
   ],
-  "SelectedNode": "\\IECReportGenerator.sln",
+  "SelectedNode": "\\IEC_Rest_Api\\IEC_Rest_Api.csproj",
   "PreviewInSolutionExplorer": false
 }
