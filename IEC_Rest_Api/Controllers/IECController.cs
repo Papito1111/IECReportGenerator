@@ -14,13 +14,13 @@ namespace IEC_Rest_Api.Controllers
         [HttpGet]
         public IEnumerable<IECModel> Get()
         {
-            var result = new List<IECModel>();
+            
 
             var generator = new IECReportGenerator1(new WindReader(),
                                        new IECWriter());
-            generator.GeneratorReport("data.json", "iec.json");
+            return generator.GeneratorReport("data.json");
 
-            return result;
+           
         }
 
     }

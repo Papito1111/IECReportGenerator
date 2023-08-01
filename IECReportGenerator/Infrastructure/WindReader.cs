@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 namespace IECReportGenerator.Infrastructure
 {
-    internal class WindReader
+    public class WindReader
     {
         public IEnumerable<WindModel> ReadWindModels(string inputFile)
         {
